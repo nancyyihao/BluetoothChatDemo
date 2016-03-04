@@ -1,0 +1,2 @@
+# BluetoothChatDemo
+一个通过蓝牙进行聊天Demo，通过此Demo你可以了解Android蓝牙通信的基本步骤的方法
